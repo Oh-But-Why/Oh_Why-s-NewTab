@@ -20,6 +20,7 @@
 
   &emsp;&emsp;6. 回到刚刚的`管理扩展页面`，你就可以看到一个名为`Edge Beautiful Newtab`的扩展，启用它，再新建标签页就可以看到扩展生效了喵。
 <img width="2549" height="1191" alt="8741dcf355475e3983816b25e454e1e8" src="https://github.com/user-attachments/assets/20c053fe-0832-48b7-ab58-b9ed2ec0c974" />
+你就可以看到被更改的新建标签页了喵。
 <img width="2549" height="1191" alt="585b6b7ea73db37db7a246fe530e5814" src="https://github.com/user-attachments/assets/9ebb6258-6aaa-4487-ae33-940eabb1d8eb" />
 
   
